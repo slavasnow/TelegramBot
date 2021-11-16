@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget https://github.com/slavasnow/TGxClusterBot/releases/latest/download/TelegramBot
+wget https://github.com/slavasnow/TelegramBot/releases/latest/download/TelegramBot
 
 echo "скачивание завершено"
 
