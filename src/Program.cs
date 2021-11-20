@@ -10,7 +10,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 
 
-var client = new TelegramBotClient("1922620877:AAHd6M7t1DAAhnG6XhwymQmdYgjJmUZv0wc"); //токен для подключения 
+var client = new TelegramBotClient(""); //токен для подключения 
 using var cts = new CancellationTokenSource();
 
 var receiverOption = new ReceiverOptions
